@@ -70,7 +70,7 @@ map.on('mousemove', function (e) {
      //'USGS_Satellite' : usgs
  }
 var overLayerMaps = {
-    'GeoJSON Marker': marker,
+    // 'GeoJSON Marker': marker,
     'Single Marker' : singleMarker
 }
 
